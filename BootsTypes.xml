@@ -1,0 +1,67 @@
+This is a list of newest items types. this is not the full list of items be sure to check the classnames in the READ_ChangeNotes_RecentClassNames.txt for full list of updated classnames. 
+
+	<type name="Diesel_CombatBoots_Camo_Brown">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="floor"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Diesel_CombatBoots_Camo_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="floor"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Diesel_CombatBoots_Camo__Purple">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="floor"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Diesel_CombatBoots_Camo__Red">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="floor"/>
+		<usage name="Military"/>
+	</type>
+	<type name="Diesel_CombatBoots_Camo_Yellow">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>1800</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="floor"/>
+		<usage name="Military"/>
+	</type>

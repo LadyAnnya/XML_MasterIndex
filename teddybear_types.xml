@@ -1,0 +1,188 @@
+	<type name="Diesel_BloodyBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_CheetahBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_OrGrBlTieDyeBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_PatchChevGreenBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_PatchDennaBlueBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_PatchDennapurpleBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_PatchdiamondblueBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_PatchgreenBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_PatchpinkBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_PatchworkBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_PumpkinBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_SplashDiamondBlueBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_SkeleBear">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_SkeleBearBlue">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_SkeleBearOrange">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_SkeleBearPurple">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	<type name="Diesel_SkeleBearRed">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="Hunting"/>
+	</type>
+	

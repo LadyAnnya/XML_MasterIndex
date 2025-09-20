@@ -1,0 +1,321 @@
+This is a list of newest items types. this is not the full list of items be sure to check the classnames in the READ_ChangeNotes_RecentClassNames.txt for full list of updated classnames. 
+
+	<type name="Diesel_DayzitosBox">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_DayzitosBox_Red">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_DayzitosBox_Green">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_sandwich">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Jerky">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Canned_Apples">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Canned_WolfStew">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Canned_BearStew">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Canned_Cake">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Rice">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_LoafBread">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_ZourZombies">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_Zour_Zombies">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_SnoCaps">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_PeanutMMs">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_WBSkittles">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_BunchaCrunch">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_MMs">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_Whoppers">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_Popcorn">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_CrunchMunch">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_GummyBears">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_CandyCorn">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_PopcornBall">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_Reeses">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_Twix">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_KitKat">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_Whatchamacallit">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>
+	<type name="Diesel_Candy_CoffeeCrisp">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>100</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name=""/>
+	</type>

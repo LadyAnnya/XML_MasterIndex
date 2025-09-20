@@ -1,0 +1,481 @@
+This is a list of newest items types. this is not the full list of items be sure to check the classnames in the READ_ChangeNotes_RecentClassNames.txt for full list of updated classnames. 
+	<type name="Diesel_CarTent_Admin">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_CarTent_Admin2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_CarTent_Mossy_Admin">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_CarTent_Mossy2_Admin">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_CarTent_Mossy">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_CarTent_Mossy2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_CarTent_Snow">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_Admin">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_asiocamo_pink">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_CabeCamo">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_JTech">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_HK">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_Kryptek_HK">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_Kryptek_Blue">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_Kryptek_Toxic">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_Kryptek_Yellow">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_NFBlue">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_NFBurntOr">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_NFGreen">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_NFPink">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_PRBow">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_MMBP">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_Mossy">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_PBSplatter">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_NFRed">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_TakiSkin">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_TakiSkin_Green">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_TakiSkin_Pink">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_TakiSkin_Purple">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_USN">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_LargeTent_Kryptek_Toxic">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_MediumTent_Mossy">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_MediumTent_Mossy2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_MediumTent_Grassy">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_MediumTent_Grassy2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_MediumTent_Black">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_MediumTent_BlackG">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_MediumTent_Leather">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_PartyTent_PRbow">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="Diesel_PartyTent_Black">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>43200</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+		<category name="containers"/>
+		<usage name="Industrial"/>
+	</type>
